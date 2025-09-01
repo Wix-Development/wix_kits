@@ -18,8 +18,6 @@ Wix Kits is a flexible reward and kit management system for FiveM servers. It pr
 - **Debug Mode**: Detailed logging for troubleshooting
 
 ### Key Benefits
-- Seamless integration with Wix Core framework
-- Simple configuration through config.lua
 - Support for multiple inventory systems
 - Optimized database storage
 - Lightweight and performant
